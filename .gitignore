@@ -1,0 +1,10 @@
+.venv
+.pylintrc
+__pychach__/
+
+.vscode
+.idea
+.env
+
+media/
+static/
